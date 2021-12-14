@@ -15,6 +15,11 @@ Search through the categories of free APIs there and find two APIs that are inte
 You will be expected to write a proposal that summarizes how you plan to use the APIs you chose.
 You will submit your proposal to canvas for your instructor to review.
 
+// These are the API URLS I used for the project:
+// https://jokes.p.rapidapi.com/joke/random
+// https://cloudlabs-text-to-speech.p.rapidapi.com/synthesize
+//
+
 Phase 2 - Initial Prototype (Due 9/21)
 
 You will create a static HTML prototype of your solution. Create at least two static HTML page(s) that suggest how your solution will work when it is done. In this phase, your code does not interact with the APIs. HTML tables, text, messages, etc. can be filled with mock data. You will have buttons and links in this phase that don’t work. They are just there for the sake of appearance.
