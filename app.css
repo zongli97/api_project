@@ -1,0 +1,60 @@
+body{
+	background-color: #3aa3cc;
+}
+label{
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+    font-size: 1.5em;
+}
+textarea {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+}
+h5{
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+input[type=button] {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+}
+#get_joke{
+    height: 250px;
+    border-style: solid;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+    padding: 5px;
+    overflow-y: scroll;
+    background-color: white;
+}
+.bg-punchline{
+    margin-left: 10px;
+    padding: 5px;
+	border-top-left-radius: 20px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.bg-setup{
+    margin-right: 10px;
+    padding: 5px;
+	border-top-left-radius: 0px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px; 
+}
+.color_wheat{
+    background-color: wheat;
+}
