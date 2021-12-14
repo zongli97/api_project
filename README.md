@@ -1,6 +1,4 @@
-# api_project
-MIS2402 Semester-Long Project
-
+# MIS2402 Semester-Long Project
 Create a simple application that uses Web APIs
 
 As you will discover in this course, there are web APIs available to programmers that allow them to create applications that can perform a variety of tasks. There are APIs designed to look up data (e.g. USA state codes, zip codes, etc.), and there are APIs that perform actions. Actions include tasks such as creating new data records, sending text messages, generating QR codes, and many other things.
