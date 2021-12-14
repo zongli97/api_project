@@ -1,5 +1,4 @@
 # api_project
-Random Joke Generator
 MIS2402 Semester-Long Project
 
 Create a simple application that uses Web APIs
