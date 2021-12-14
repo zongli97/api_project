@@ -17,9 +17,9 @@ You will submit your proposal to canvas for your instructor to review.
 
 These are the API URLS I used for the project:
 
-https://jokes.p.rapidapi.com/joke/random
+https://rapidapi.com/orthosie/api/jokes/
 
-https://cloudlabs-text-to-speech.p.rapidapi.com/synthesize
+https://rapidapi.com/cloudlabs-dev/api/cloudlabs-text-to-speech/
 
 
 Phase 2 - Initial Prototype (Due 9/21)
