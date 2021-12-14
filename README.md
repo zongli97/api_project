@@ -16,7 +16,9 @@ You will be expected to write a proposal that summarizes how you plan to use the
 You will submit your proposal to canvas for your instructor to review.
 
 These are the API URLS I used for the project:
+
 https://jokes.p.rapidapi.com/joke/random
+
 https://cloudlabs-text-to-speech.p.rapidapi.com/synthesize
 
 
